@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>Hi there 👋 I'm Monica Sucianto</h1>
-   <h3>An Active Android Developer Learner from Makassar</h1>
+   <h3>An Active Mobile Developer Learner from Makassar</h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/monica-sucianto-81476b219/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
