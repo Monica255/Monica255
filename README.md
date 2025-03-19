@@ -21,9 +21,8 @@
 
 ### :raising_hand_woman: About Me:
 - 🔭 I’m currently learning native Android Development, iOS Development with SwiftUI and UI/UX
-- 🌱 I activaly join Hackathon to improve my skill
+- 🌱 I'm  activaly learning to improve my skill
 - 👯 I’m looking to collaborate on any project
-- 🤔 I’m looking for Android Developer Internships
 - 💬 Ask me about anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love chocomaltine terang bulan soooo much
